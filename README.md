@@ -11,6 +11,11 @@ Supersix Demo App for Akka Actor Stream Enrichment
 
 Processes json-formatted a Source and writes enriched versions to a Sink.
 
+* support google cloud storage file sources
+* support azure blob file sources
+* support azure eventhubs sink
+* support kafka sink
+
 ### To Run
 
 * run Kafka with Docker
