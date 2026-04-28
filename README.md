@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/supersix-akka](https://git.navicore.tech/navicore/supersix-akka).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 [![Build Status](https://travis-ci.org/navicore/supersix-akka.svg?branch=master)](https://travis-ci.org/navicore/supersix-akka)
 
 Supersix Demo App for Akka Actor Stream Enrichment
@@ -29,4 +34,3 @@ docker run -p 9042:9042 --name my-cassandra -d cassandra:3.11
 ```
 
 `sbt run`
-
